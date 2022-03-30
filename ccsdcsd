@@ -1,0 +1,35 @@
+[33mcommit b41549294263df071d3841981e42dac37b3ecf42[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Ayana Nygmetova <47049199+ayananygmetova@users.noreply.github.com>
+Date:   Wed Mar 30 19:13:16 2022 +0600
+
+    Тестирование amend команды
+
+[33mcommit 1a09f85ac99ed5e5814376bb710e0ffadb8cb439[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Ayana Nygmetova <47049199+ayananygmetova@users.noreply.github.com>
+Date:   Wed Mar 30 19:12:20 2022 +0600
+
+    ooops
+
+[33mcommit 147a6873f322290157414359946d351b7c960365[m
+Author: Ayana Nygmetova <47049199+ayananygmetova@users.noreply.github.com>
+Date:   Wed Mar 30 19:09:03 2022 +0600
+
+    Добавлена ифнормация про помощь и файл редми
+
+[33mcommit 2ddd1ec3822bf6548b8f790ef276c7d33442cc79[m
+Author: Ayana Nygmetova <47049199+ayananygmetova@users.noreply.github.com>
+Date:   Sun Mar 27 18:46:37 2022 +0600
+
+    This is a new commit for what I originally planned to be amended
+
+[33mcommit 86ed97ccd251d6324ac013c8c5b724da95f635a5[m
+Author: Ayana Nygmetova <47049199+ayananygmetova@users.noreply.github.com>
+Date:   Sun Mar 27 18:45:42 2022 +0600
+
+    changes
+
+[33mcommit 2fe22440741392c276627113f4859e34eccabdf9[m
+Author: Ayana Nygmetova <47049199+ayananygmetova@users.noreply.github.com>
+Date:   Sun Mar 27 17:19:03 2022 +0600
+
+    README.md added
